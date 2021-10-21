@@ -1,1 +1,4 @@
-include ':EventRegistration-Backend'
+rootProject.name = 'eventregistration'
+include 'EventRegistration-Backend'
+
+
